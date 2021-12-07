@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Fancy-Buttons with Create React App
+
+Practices with creating buttons that will change their state when we interact with them.
+
+Each button will have a specific behavior:
+
+The counter button will keep track how many times we click on it. The angry button will change colour to get more red until it reaches a maximum threshold. The light switch button will turn on and off when clicked. The text repeater button will copy the text of the button over and over.
+
+### ScreenShots
+
+!["Front End Layout"](public/doc/fancy-buttons.png)
+!["Dark Mode"](public/doc/fancy-buttons-dark-mode.png)
+!["Buttons clicked"](public/doc/fancy-buttons-actions.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
