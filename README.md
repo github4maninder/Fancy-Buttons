@@ -17,7 +17,7 @@ The counter button will keep track how many times we click on it. The angry butt
 #### Buttons clicked
 !["Buttons clicked"](public/doc/fancy-buttons-actions.png)
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
